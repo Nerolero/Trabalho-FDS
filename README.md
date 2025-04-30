@@ -85,3 +85,22 @@ O motivo da programação em par não ser utilizada em 100% do projeto foi devid
 
 
 </details>
+
+<details><summary><h1><b>Entrega 02</b></h1></summary>
+
+## Sprint atualizadção do jira
+
+<img src="https://github.com/user-attachments/assets/d3a611e1-88d9-4e41-8a79-9b23e1da01bd" style="max-width: 100%; height: auto;">
+
+## Issue/bug tracker atualizado
+
+<img src="https://github.com/user-attachments/assets/666763ac-46fb-4e6b-9dec-486e17d07a21" style="max-width: 100%; height: auto;">
+
+<img src="https://github.com/user-attachments/assets/c61aaf5c-8ee4-49bf-b39c-2642c80b7acc" style="max-width: 100%; height: auto;">
+
+
+## Histórias e cenários de validação
+
+História Criação de subrefas:
+
+<img src="https://github.com/user-attachments/assets/1e8d1e19-e526-440a-a269-c55ad55ffeda" style="max-width: 100%; height: auto;">
