@@ -85,3 +85,14 @@ O motivo da programação em par não ser utilizada em 100% do projeto foi devid
 
 
 </details>
+
+<details><summary><h1><b>Entrega 03</b></h1></summary>
+
+## Link do Jira
+https://trabalhofds.atlassian.net/jira/software/projects/CPG/boards/1/backlog
+
+## Link do Figma
+https://www.figma.com/design/3kWUkKde8yY336J1mfMHxf/Untitled?node-id=0-1&p=f&t=L01fMY5woqu3F04u-0
+
+## Sketches das historias no Figma <br>
+
